@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **AI Agents for efficiency**
 
-- 🤝 I’m looking for help with **senior developers**
-
 - 📫 How to reach me **bharkavis@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15w7eLhVTKuerqakpLSwtBWsGzpudCaOi/view?usp=sharing](https://drive.google.com/file/d/15w7eLhVTKuerqakpLSwtBWsGzpudCaOi/view?usp=sharing)
